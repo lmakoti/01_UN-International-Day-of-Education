@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">An analysis of regional education indicators in relation to the standard of living using <a href="https://powerbi.microsoft.com/en-us/" target="_blank" style="color:#000">Microsoft Power BI</a></h1>
-=======
-<h4 align="center">An analysis of regional education indicators in relation to the standard of living using <a href="https://powerbi.microsoft.com/en-us/" target="_blank" style="color:#000">Microsoft Power BI</a></h4>
->>>>>>> c70d5a988329f6624f0e04f13b2064b0011085d8
+
 
 <p align='center'>
 <img src="international_day_of_education-A_RES_73_25-242024/03_Resources/badge_un_title.png" style="height:35px" alt="un_badge" border="0">
