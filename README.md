@@ -76,11 +76,15 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 ## Dashboard (Report)
 
-![image-20220122191730243](C:\Users\Lehlohonolo Makoti\AppData\Roaming\Typora\typora-user-images\image-20220122191730243.png)
+1. Main Report Page/Landing Page
 
-![image-20220122191827755](C:\Users\Lehlohonolo Makoti\AppData\Roaming\Typora\typora-user-images\image-20220122191827755.png)
+![](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\UN Data Analytics Portfolio\SDG4-Education\A_RES_73_25-242024\03_Resources\dashboard_main.png)
 
 
+
+2. Metadata Report Page
+
+![](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\UN Data Analytics Portfolio\SDG4-Education\A_RES_73_25-242024\03_Resources\dashboard_metadata.png)
 
 ## Networking
 
