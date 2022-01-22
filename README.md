@@ -9,7 +9,7 @@
   <a href="#overview">Overview</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#definitions">Definitions</a> •
-  <a href="#dashboard (Report)">Dashboard</a> •
+  <a href="#dashboard">Dashboard</a> •
   <a href="#networking">Networking</a> •
   <a href="#license">License</a>
 </p>
@@ -72,7 +72,7 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 
 
-## Dashboard (Report)
+## Dashboard
 
 1. **Main Report Page/Landing Page**
 
