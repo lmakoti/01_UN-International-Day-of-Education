@@ -76,13 +76,12 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 1. **Main Report Page/Landing Page**
 
-![](A_RES_73_25-242024\03_Resources\dashboard_main.png)
-
+<img src="A_RES_73_25-242024\03_Resources\dashboard_main.png" alt="main_report_page" border="0">
 
 
 2. **Metadata Report Page**
 
-![](A_RES_73_25-242024\03_Resources\dashboard_metadata.png)
+<img src="A_RES_73_25-242024\03_Resources\dashboard_main.png" alt="metadata_report_page" border="0">
 
 
 
