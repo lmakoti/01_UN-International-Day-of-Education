@@ -78,13 +78,13 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 1. Main Report Page/Landing Page
 
-![](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\UN Data Analytics Portfolio\SDG4-Education\A_RES_73_25-242024\03_Resources\dashboard_main.png)
+![](A_RES_73_25-242024\03_Resources\dashboard_main.png)
 
 
 
 2. Metadata Report Page
 
-![](C:\Users\Lehlohonolo Makoti\Documents\Learning & Dev\Data Work Portfolio\UN Data Analytics Portfolio\SDG4-Education\A_RES_73_25-242024\03_Resources\dashboard_metadata.png)
+![](A_RES_73_25-242024\03_Resources\dashboard_metadata.png)
 
 ## Networking
 
