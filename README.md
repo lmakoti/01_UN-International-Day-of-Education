@@ -1,12 +1,10 @@
-<h1 align="center">United Nations International Day of Education</a></h1>
+<h1 align="center">United Nations International Day of Education, 24 January 2022</a></h1>
 
 <p align='center'>
 <img src="A_RES_73_25-242024/03_Resources/badge_un_title.png" style="height:35px" alt="un_badge" border="0">
 <img src="A_RES_73_25-242024/03_Resources/badge_sdg4_title.png" style="height:35px" alt="cc_badge" border="0">
 <img src="A_RES_73_25-242024/03_Resources/badge_cc_title.png" style="height:35px" alt="cc_badge" border="0">
 </p>
-
-
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#architecture">Architecture</a> •
@@ -76,15 +74,17 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 ## Dashboard (Report)
 
-1. Main Report Page/Landing Page
+1. **Main Report Page/Landing Page**
 
 ![](A_RES_73_25-242024\03_Resources\dashboard_main.png)
 
 
 
-2. Metadata Report Page
+2. **Metadata Report Page**
 
 ![](A_RES_73_25-242024\03_Resources\dashboard_metadata.png)
+
+
 
 ## Networking
 
