@@ -34,6 +34,8 @@ Today, 258 million children and youth still do not attend school; 617 million ch
 
 ## Architecture
 
+**Detailed Architecture Overview**: <a href="02_ETL Architecture/readme.md">More Details</a>
+
 UNDP Human Development Data Center: The human development data are sourced from international data agencies with the mandate, resources, and expertise to collect national data on specific indicators unless otherwise noted.
 
 **Human Development Report Office Statistical Data API**

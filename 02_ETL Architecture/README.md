@@ -7,17 +7,11 @@
 </p>
 
 
-
-
-[TOC]
-
 ## Architecture (ETL)
 
 The image below depicts the query management structure in the Power Query Editor and the corresponding tables used to build out the model:
 
-
-
-![](..\03_Resources\powerbi_querylist.png)
+<img src="../03_Resources/powerbi_querylist.png"  alt="un_badge" border="0">
 
 
 
@@ -87,7 +81,7 @@ Key Transformation Steps in PowerQuery - Using the M-Language [^PowerQuery-M]
 
 Below is the loaded model of the tables created to produce the visuals, it uses the traditional Star Schema approach [^ Star Schema]
 
-![](..\03_Resources\powerbi_model.png)
+<img src="../03_Resources/powerbi_model.png"  alt="un_badge" border="0">
 
 ## Networking
 
