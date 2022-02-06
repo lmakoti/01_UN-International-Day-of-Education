@@ -42,7 +42,7 @@ UNDP Human Development Data Center: The human development data are sourced from 
 
 The Human Development Report Office (HDRO) offers this REST API for the developers to query human development related data in JSON format. The data can be queried by indicator id(s), year(s) and country code(s) and group by any order. 
 
-**API Home**: http://ec2-54-174-131-205.compute-1.amazonaws.com/API/Information.php
+> **API Home**: http://ec2-54-174-131-205.compute-1.amazonaws.com/API/Information.php
 
 **Using the API**
 
@@ -50,7 +50,7 @@ Users should query the API using the GET method. The resource selection can be d
 
 The options selection is by default set to: Data Structure: structure = ciy [ciy, yic, yci, iyc, icy]
 
-[http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2013,2019/structure=ciy](http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2000,2019/structure=ciy)
+> [http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2013,2019/structure=ciy](http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2000,2019/structure=ciy)
 
 
 
@@ -62,7 +62,7 @@ Education index is an average of mean years of schooling (of adults) and expecte
 
 **Data Source:** HDRO calculations based on expected years of schooling and mean years of schooling from UNESCO Institute for Statistics (2020) and other sources. Accessed on 21 July 2020.
 
-**URL**: http://hdr.undp.org/en/indicators/103706
+> **URL**: http://hdr.undp.org/en/indicators/103706
 
 **Government Expenditure on Education (Indicator ID - 149206)**
 
@@ -70,7 +70,7 @@ SDG 1.a Ensure significant mobilization of resources from a variety of sources, 
 
 **Data Source:** World Bank (2020a). World Development Indicators database. Washington, DC. http://data.worldbank.org. Accessed 22 July 2020.
 
-**URL**: http://hdr.undp.org/en/indicators/149206
+> **URL**: http://hdr.undp.org/en/indicators/149206
 
 
 
@@ -93,18 +93,8 @@ Connecting and building networks is always part of my priorities, please reach o
 
 [![LinkedIn Badge](https://img.shields.io/badge/-lehlohonolomakoti-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://linkedin.com/in/lehlohonolomakoti)][linkedin] [![Github Badge](https://img.shields.io/badge/-lehlohonolomakoti-000000?style=flat&labelColor=000000&logo=github&logoColor=white&link=https://github.com/lmakoti)][github] [![Facebook Badge](https://img.shields.io/badge/-lmakoti-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/lmakoti)][facebook]
 
-
-
 ## License
-
 This license lets others distribute, remix, adapt, and build upon your  work, even commercially, as long as they credit you for the original  creation. This is the most accommodating of licenses offered.  Recommended for maximum dissemination and use of licensed materials. (https://creativecommons.org/licenses/)
-
-
-
-
-
-
-
 
 
 <!-- Profile Links -->
@@ -116,22 +106,3 @@ This license lets others distribute, remix, adapt, and build upon your  work, ev
 <!-- Shields Profile Links -->
 
 [linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
